@@ -1,3 +1,4 @@
 # hello-world
-First repository to practise on.
-My name is Jenca and I am new to programming.
+First repository to practise.
+My name is Jenca and I am new to programming/coding.
+
